@@ -1,0 +1,3 @@
+/mnt/c/Users/omkar.shirdhone/Project/Capston/CMakeFiles/Capston.dir
+/mnt/c/Users/omkar.shirdhone/Project/Capston/CMakeFiles/edit_cache.dir
+/mnt/c/Users/omkar.shirdhone/Project/Capston/CMakeFiles/rebuild_cache.dir
